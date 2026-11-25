@@ -1,0 +1,10 @@
+# make.fun kit and build artefacts — never committed
+u-xvader-tell-a-whole-story-in-32-characters-f86dd978-kit/
+*.tar.gz
+*.tgz
+comp.json
+competition.json
+requirements.json
+RULES.txt
+HANDOFF.md
+__pycache__/
